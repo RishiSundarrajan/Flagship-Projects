@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "title": "Pizza",
+      "image": "/data/user/0/com.example.app/cache/image1.jpg",
+      "cuisines": ["Italian", "Fast Food"],
+      "subcategories": ["Vegetarian", "Non-Vegetarian"]
+    },
+    {
+      "title": "Tiramisu",
+      "image": "base64_encoded_image_here",
+      "cuisines": ["Dessert"],
+      "subcategories": ["Sweet"]
+    }
+  ]
+}
+
